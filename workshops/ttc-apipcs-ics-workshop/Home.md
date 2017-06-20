@@ -1,9 +1,6 @@
 ![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png) 
 > Updated: June 20, 2017
 
-# Oracle Touch the Cloud Series 
-
-
 # Cloud Accelerate: APICS and ICS Integration Workshop
 A hands-on workshop to dive into development on Oracle's Cloud API and Integration Platforms
 
