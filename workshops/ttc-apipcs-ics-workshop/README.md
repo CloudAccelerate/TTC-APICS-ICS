@@ -3,7 +3,7 @@
 </center>
 > Updated: April 19, 2017
 
-# Common Content
+# Common Content:
     
 ## How to Access Common Content
 
