@@ -8,9 +8,14 @@ Update: July 27, 2017
 
 ### Install Postman
 
+<<<<<<< HEAD
 We will use Postman to test the API and the policies configured within APIPCS that integrates with a simple integration flow running within ICS.
 
 If you don’t have Postman installed on your laptop, you will need to install it.
+=======
+We will use SoapUI to test an ICS Soap Web Service integration.
+If you don't already have SoapUI installed on your workstation, you'll need to install it.
+>>>>>>> 03b8cc81dc56320817c3200ca8df1f95b8fded73
 
 To install Postman for testing API and ICS integration, follow these instructions:
 
