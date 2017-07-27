@@ -1,20 +1,21 @@
 <center>![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png)</center> 
 
-Update: March 30, 2017
+Update: July 27, 2017
 
-# ICS Development Workshop Prerequisites
+# APIPCS / ICS Integration Workshop Prerequisites
 
 ## Required 3rd Party Testing Tools
 
-### Install SoapUI
+### Install Postman
 
-We will use SoapUI to test an ICS Soap Web Service integration.
+We will use Postman to test the API and the policies configured within APIPCS that integrates with a simple integration flow running within ICS.
 
-If you don't already have SoapUI installed on your workstation, you'll need to install it.
+If you don’t have Postman installed on your laptop, you will need to install it.
 
-To install SoapUI for testing the ICS integration follow these instructions:
+To install Postman for testing API and ICS integration, follow these instructions:
 
-- Download the SoapUI OpenSource application for your desktop/laptop from the URL: <https://www.soapui.org/downloads/soapui.html>
+- Download Postman Native Apps for your laptop platform from the following URL:   
+<https://www.getpostman.com/apps>
 
 ![](images/studentguide/image001.png)
 
@@ -22,11 +23,21 @@ To install SoapUI for testing the ICS integration follow these instructions:
 
 ![](images/studentguide/image002.png)
 
-- Run the installer from the temporary directory
-
 ![](images/studentguide/image003.png)
 
-- Install SoapUI on your workstation following the directions provided by SmartBear here: <https://www.soapui.org/getting-started/installing-soapui.html> 
+- Run the installer from the temporary directory
+
+![](images/studentguide/image004.png)
+
+- Postman will start when the installation is completed
+
+![](images/studentguide/image005.png)
+
+- If you get the Postman UI above, select “Take me straight to the app” link
+
+![](images/studentguide/image006.png)
+
+- Refer to this link for more information on Postman installation: <https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates> 
 
 ---
 
