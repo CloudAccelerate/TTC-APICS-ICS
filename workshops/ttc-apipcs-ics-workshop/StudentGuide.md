@@ -14,6 +14,7 @@ If you don't already have SoapUI installed on your workstation, you'll need to i
 To install Postman for testing API and ICS integration, follow these instructions:
 
 - Download Postman Native Apps for your laptop platform from the following URL:
+
 <https://www.getpostman.com/apps>
 
 ![](images/studentguide/image001.png)
@@ -37,6 +38,7 @@ To install Postman for testing API and ICS integration, follow these instruction
 ![](images/studentguide/image006.png)
 
 - Refer to this link for more information on Postman installation: 
+
 <https://www.getpostman.com/docs/postman/launching_postman/installation_and_updates> 
 
 ---
