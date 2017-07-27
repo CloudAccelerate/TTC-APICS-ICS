@@ -9,7 +9,6 @@ Update: March 30, 2017
 ### Install SoapUI
 
 We will use SoapUI to test an ICS Soap Web Service integration.
-
 If you don't already have SoapUI installed on your workstation, you'll need to install it.
 
 To install SoapUI for testing the ICS integration follow these instructions:
