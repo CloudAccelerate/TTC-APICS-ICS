@@ -1,5 +1,5 @@
 ![](https://cloudaccelerate.github.io/TTC-CommonContent/images/ttc-logo.png) 
-> Updated: June 20, 2017
+> Updated: Sep 6, 2018
 
 # Cloud Accelerate: APICS and ICS Integration Workshop
 A hands-on workshop to dive into development on Oracle's Cloud API and Integration Platforms
